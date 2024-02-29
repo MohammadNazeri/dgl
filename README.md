@@ -1,5 +1,4 @@
-I started to get to know more about some concepts like DGL, GCN, node representation
-and some tasks like node classification, 
+I started to get to know more about some concepts like DGL, GCN, node representation, and representation of pairs of nodes, and some tasks like node classification, link prediction, and customizing GNN module. Also, I used the Networkx library to show the graphs graphically.
 
 # Deep Graph Library (DGL)
 DGL provides an abstraction for building and working with graph neural networks. It allows users to define message functions, aggregation functions, and update functions easily.
@@ -11,7 +10,7 @@ DGL provides an abstraction for building and working with graph neural networks.
 * Graph Convolutional Network (GCN): Each layer computes new node representations by aggregating neighbor information.
 
 
-## GRAPH CONVOLUTIONAL NETWORKS (GCN)
+## GRAPH CONVOLUTIONAL NETWORKS (GCN) https://distill.pub/2021/understanding-gnns/#introduction
 * Graph Convolutional Networks (GCNs) are a type of Graph Neural Network that fits into the message passing paradigm. They use graph convolutional layers to update node representations by aggregating information from neighboring nodes.
 * Graph neural networks (GNNs) are a family of neural networks that can operate naturally on graph-structured data. 
 * Many important real-world datasets come in the form of graphs or networks: social networks, knowledge graphs, protein-interaction networks, the World Wide Web, etc.
