@@ -1,4 +1,13 @@
-I started to get to know more about some concepts like DGL, GCN, node representation, and representation of pairs of nodes, and some tasks like node classification, link prediction, and customizing GNN module. Also, I used the Networkx library to show the graphs graphically.
+Dear Saba,
+I hope you are doing well.
+I am Mohammad, a student at Polytechnique Montreal University and I have experience in the ML field. I met you at a job fair about one month ago. You spoke about some topics like DGL and Networkx. You suggested that I try to read about them and have a meeting around the end of February. 
+I started to get to know more about some concepts like DGL, GCN, node representation, and representation of pairs of nodes. In addition, I tried to run some tasks like node classification, link prediction, and customizing GNN module. Also, I used the Networkx library to show the graphs graphically.
+In the meantime, I read some articles about GNNs. It is a very interesting topic. Graph Neural Networks (GNNs) have gained much attention in biotechnology and drug discovery. Because the model can represent complex molecular structures as networks, capture vital structural information, and seamlessly handle diverse data types. 
+
+I would like to dig into these topics. I wonder if there would be any position in your company.
+
+
+
 
 # Deep Graph Library (DGL)
 DGL provides an abstraction for building and working with graph neural networks. It allows users to define message functions, aggregation functions, and update functions easily.
